@@ -4,3 +4,5 @@ create or replace TABLE DISCOUNT_CODES_AMOUNT (
 	KEY_INDEX NUMBER(38,0),
 	AMOUNT NUMBER(38,0)
 );
+
+
