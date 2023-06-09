@@ -1,0 +1,7 @@
+CREATE TABLE DEPARTMENT
+(
+   DEPTCODE   INT(10),
+   DeptName   CHAR(30),
+   LOCATION   VARCHAR(33)
+);
+
