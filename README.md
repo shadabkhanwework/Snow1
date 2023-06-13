@@ -1,1 +1,1 @@
-This is SQL Code Written in Snowflake
+Conflict Solved
